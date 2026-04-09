@@ -6,8 +6,8 @@
 ## 📝 Información General
 * **Materia:** Administración de la Seguridad Informática (ASI)
 * **Alumno:** Angel Lozada
-* **Docente:** [Nombre de tu Docente]
-* **Institución:** Universidad [Nombre de tu Uni]
+* **Docente:** Hildeberto Tovar
+* **Institución:** Universidad Insurgentes Sur 1
 * **Proyecto:** `PREexa_2o-Lozada_94APTI`
 
 ---
@@ -54,6 +54,8 @@ Se implementó `error_handler.jsp` para capturar excepciones de servidor, asegur
    * Agregar el conector `mysql-connector-java.jar` a la carpeta de **Libraries**.
 3. **Acceso:**
    * URL principal: `http://localhost:8080/PREexa_2o-Lozada_94APTI/index.jsp`
+   * URL pública: `http://localhost:8080/PREexa_2o-Lozada_94APTI/index.jsp](https://github.com/alozada-lang/PREexa_2o-Lozada_94APTI.git`
+
 
 ---
 
