@@ -54,7 +54,7 @@ Se implementó `error_handler.jsp` para capturar excepciones de servidor, asegur
    * Agregar el conector `mysql-connector-java.jar` a la carpeta de **Libraries**.
 3. **Acceso:**
    * URL principal: `http://localhost:8080/PREexa_2o-Lozada_94APTI/index.jsp`
-   * URL pública: `http://localhost:8080/PREexa_2o-Lozada_94APTI/index.jsp](https://github.com/alozada-lang/PREexa_2o-Lozada_94APTI.git`
+   * URL pública: https://github.com/alozada-lang/PREexa_2o-Lozada_94APTI.git
 
 
 ---
